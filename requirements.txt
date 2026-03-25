@@ -1,0 +1,5 @@
+marimo>=0.21.1
+numpy>=2.4
+scipy>=1.17
+filterpy>=1.4.5
+plotly>=6.6

@@ -1,0 +1,26 @@
+teacher/
+
+# Python runtime / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Test / type-checker / local tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Notebook / editor / OS artifacts
+.DS_Store
+.ipynb_checkpoints/
+__marimo__/session/
+
+# Local debug / temp files
+*.log
+*.tmp
+*.temp
